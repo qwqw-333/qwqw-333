@@ -9,9 +9,9 @@ Currently open to remote opportunities in DevOps, Site Reliability Engineering, 
 ---
 ## 📬 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square&logoColor=white)](https://linkedin.com/in/konoval-andrii)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&style=flat-square&logoColor=white)](https://t.me/konoval_andrii)
-[![Email](https://img.shields.io/badge/Email-555555?logo=gmail&style=flat-square&logoColor=white)](mailto:qwqw-333@proton.me)
+[![Email](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](mailto:qwqw-333@proton.me)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/konoval_andrii)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/konoval-andrii)
 
 ---
 ## 🔧 Core Engineering Competencies
