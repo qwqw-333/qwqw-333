@@ -55,7 +55,7 @@ Nginx · Apache · Caddy · Traefik
 ---
 ## 💼 Professional Experience
 
-**DevOps Engineer (Volunteer)** — SoftServe Open Tech / NGO (Oct 2024 – Present)  
+**DevOps Engineer (Volunteer)** — SoftServe (Oct 2024 – Present)  
 Built CI/CD workflows with GitHub Actions, managed MongoDB Atlas environments, implemented backup & release automation for NGO and educational platforms.
 
 **Principal VoIP Engineer** — National Infrastructure Program (June 2024 – Present)  
@@ -72,6 +72,22 @@ Automated provisioning (PXE boot, DHCP, TFTP), deployed ProxMox environments, an
 
 ---
 ## 🚀 Featured Projects
+
+### 🔹 Liatoshynsky — DevOps Architecture Assessment  
+**Volunteer project under [SoftServe Open Tech](https://opentech.softserveinc.com/en) / [Liatoshynsky Foundation](https://www.ucmfnyc.com/liatoshynsky-foundation)** (2025 – Present)
+
+**Stack:** Docker · GitHub Actions · Azure · AWS · Contabo · Hetzner · Wasabi · Backblaze · Cloudflare · Namecheap
+
+DevOps consulting initiative to assess and propose scalable, cost-efficient infrastructure for an upcoming open-source educational platform.
+
+**My role: DevOps Engineer**  
+- Conducted infrastructure needs assessment based on budget, scalability, and operational simplicity  
+- Proposed architecture leveraging VPS providers (Contabo, Hetzner, A2Hosting) and object storage (Wasabi, Backblaze)  
+- Evaluated domain/DNS providers (Cloudflare, Namecheap, GoDaddy) for reliability, pricing, and API integration  
+- Designed GitHub Actions-based CI/CD pipelines for containerized application deployment  
+- Participated in architecture validation discussions with stakeholders
+
+🔗 *Upcoming open-source project by SoftServe Open Tech & Liatoshynsky Foundation*
 
 ### 🔹 Space2Study — Educational Collaboration Platform
 **Volunteer project under [SoftServe Open Tech](https://opentech.softserveinc.com/en)** (Oct 2024 – Present)
@@ -90,22 +106,6 @@ A web-based platform for students and teachers to collaborate on academic conten
 
 🔗 [Backend Repo](https://github.com/ita-social-projects/SpaceToStudy-BackEnd)  
 🔗 [Frontend Repo](https://github.com/ita-social-projects/SpaceToStudy-Client)
-
-### 🔹 Liatoshynsky — DevOps Architecture Assessment  
-**Volunteer project under [SoftServe Open Tech](https://opentech.softserveinc.com/en) / [Liatoshynsky Foundation](https://www.ucmfnyc.com/liatoshynsky-foundation)** (2025 – Present)
-
-**Stack:** Docker · GitHub Actions · Azure · AWS · Contabo · Hetzner · Wasabi · Backblaze · Cloudflare · Namecheap
-
-DevOps consulting initiative to assess and propose scalable, cost-efficient infrastructure for an upcoming open-source educational platform.
-
-**My role: DevOps Engineer**  
-- Conducted infrastructure needs assessment based on budget, scalability, and operational simplicity  
-- Proposed architecture leveraging VPS providers (Contabo, Hetzner, A2Hosting) and object storage (Wasabi, Backblaze)  
-- Evaluated domain/DNS providers (Cloudflare, Namecheap, GoDaddy) for reliability, pricing, and API integration  
-- Designed GitHub Actions-based CI/CD pipelines for containerized application deployment  
-- Participated in architecture validation discussions with stakeholders
-
-🔗 *Upcoming open-source project by SoftServe Open Tech & Liatoshynsky Foundation*
 
 ---
 ## 📜 Selected Certifications
