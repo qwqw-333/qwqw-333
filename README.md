@@ -73,7 +73,7 @@ Automated provisioning (PXE boot, DHCP, TFTP), deployed ProxMox environments, an
 ---
 ## 🚀 Featured Projects
 
-### 🔹 Liatoshynsky — DevOps Architecture Assessment  
+### 🔹 Liatoshynsky  
 **Volunteer project under [SoftServe Open Tech](https://opentech.softserveinc.com/en) / [Liatoshynsky Foundation](https://www.ucmfnyc.com/liatoshynsky-foundation)** (2025 – Present)
 
 **Stack:** Docker · GitHub Actions · Azure · AWS · Contabo · Hetzner · Wasabi · Backblaze · Cloudflare · Namecheap
