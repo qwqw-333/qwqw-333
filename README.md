@@ -14,6 +14,28 @@ Currently open to remote opportunities in DevOps, Site Reliability Engineering, 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/konoval-andrii)
 
 ---
+| Area | Tools |
+|------|-------|
+| ☁️ **Cloud Platforms** | [![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com) [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com) |
+| 📦 **Virtualization & Containerization** | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io) VMware vSphere, ProxMox |
+| 🔐 **Networking & Security** | BGP, OSPF, MPLS, WireGuard, ZeroTier, OpenVPN, L2TP, SSTP, VLAN, NAT, DHCP, DNS |
+| 💾 **Storage** | Wasabi, Backblaze, QNAP, TrueNAS, Ceph |
+| 🗄️ **Databases** | MongoDB Atlas, PostgreSQL, MariaDB |
+| ⚙️ **DevOps Tooling** | Git, [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions), GitFlow, Docker Hub, GHCR, SonarCloud, Snyk, Trivy |
+| 📊 **Monitoring & Observability** | Zabbix, Uptime Kuma, Graylog |
+| 🌐 **Web Servers / Reverse Proxies** | Nginx, Apache, Caddy, Traefik |
+
+
+[![WireGuard](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=white)](https://www.wireguard.com)
+[![ZeroTier](https://img.shields.io/badge/ZeroTier-FF7F00?logo=zerotier&logoColor=white)](https://www.zerotier.com)
+[![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?logo=openvpn&logoColor=white)](https://openvpn.net)
+
+[![BGP](https://img.shields.io/badge/BGP-005073?style=flat&logo=protocols&logoColor=white)](#)
+[![OSPF](https://img.shields.io/badge/OSPF-004B87?style=flat&logo=protocols&logoColor=white)](#)
+[![MPLS](https://img.shields.io/badge/MPLS-0A0A0A?style=flat&logo=protocols&logoColor=white)](#)
+[![L2TP](https://img.shields.io/badge/L2TP-7B68EE?style=flat&logo=protocols&logoColor=white)](#)
+[![SSTP](https://img.shields.io/badge/SSTP-556B2F?style=flat&logo=protocols&logoColor=white)](#)
+
 ## 🔧 Core Engineering Competencies
 
 - Infrastructure & System Architecture for High Availability and Disaster Recovery  
